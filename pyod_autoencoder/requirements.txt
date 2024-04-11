@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pandas
+pyod
+seaborn
+tensorflow==2.11.0
